@@ -216,7 +216,7 @@ button:focus {
 
 /*--------Form Group--------*/
 .form-group.visible-field .form-control {
-    background-color: #fff;
+    background-color: black;
 }
 /*--------Form Group Finish--------*/
 
